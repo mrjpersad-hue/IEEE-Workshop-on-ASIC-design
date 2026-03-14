@@ -13,7 +13,12 @@ No specific function, was created to learn the process flow.
 
 ## How to test
 
-No known test process since the logic has no meaningful function.
+|input a and b | output AND | 
+|0 0           | 0          |
+|0 1           | 0          |
+|1 0           | 0          |
+|1 1           | 1          |
+
 
 ## External hardware
 
