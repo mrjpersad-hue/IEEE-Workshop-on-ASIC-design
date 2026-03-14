@@ -13,7 +13,8 @@ No specific function, was created to learn the process flow.
 
 ## How to test
 
-|input a and b | output AND | 
+|input a and b | output AND |
+|--------------|------------|
 |0 0           | 0          |
 |0 1           | 0          |
 |1 0           | 0          |
